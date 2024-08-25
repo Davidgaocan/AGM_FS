@@ -1,2 +1,2 @@
 # AGM_FS
-# This is an implementation for the paper "Three-way attribute reduction based on parameterized maximum decision entropy", which is published in IJAR. The source codes (Python 3.8, data sets, and experimental results will be released here.
+# This is an implementation for the paper "Granule Margin-Based Feature Selection in Weighted Neighborhood Systems", which is submitted to IEEE TCYB. The data sets, experimental results, and source codes (Python 3.8) will be released here.
